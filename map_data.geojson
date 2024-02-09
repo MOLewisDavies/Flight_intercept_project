@@ -1,1 +1,2 @@
+header('Cache-Control: max-age=10');
 {"type": "FeatureCollection", "features": []}
