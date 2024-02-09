@@ -1,1 +1,3 @@
+# /index.html
+Cache-Control: max-age=180, public
 {"type": "FeatureCollection", "features": []}
